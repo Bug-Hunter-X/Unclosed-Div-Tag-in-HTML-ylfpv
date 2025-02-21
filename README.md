@@ -1,0 +1,3 @@
+# Unclosed Div Tag in HTML
+
+This repository demonstrates a common, yet easily overlooked, error in HTML: a missing closing tag for a div element.  The issue can lead to unpredictable and difficult-to-debug layout issues. The `bug.html` file showcases the error, and `bugSolution.html` provides the corrected version.  The lack of a proper closing tag can cause unexpected behavior in rendering and CSS styling, particularly when nested divs are involved.
